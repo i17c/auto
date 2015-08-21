@@ -13,3 +13,6 @@ CREATE TABLE IF NOT EXISTS `sequence` (
 然后分析之后可以设定需要关注的字段, 和生成相应的java文件.
 
 生成完成后, 你需要替换文件中的YOUR_APP关键字, 并适当调整编码等.
+
+
+see idea plugin [AutoGenerator](https://github.com/i17c/AutoGenerator)
